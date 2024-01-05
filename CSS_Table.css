@@ -1,0 +1,6 @@
+table {
+	border: 3px solid silver;
+	td:hover {background-color:yellow;
+			color: orange;
+			}
+}

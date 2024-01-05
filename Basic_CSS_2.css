@@ -1,0 +1,7 @@
+/* Style for my html*/
+p { color:purple;
+	background-color:black;
+	font-size:medium;
+	text-align:center;
+	text-shadow: 2px 2px purple;
+}
